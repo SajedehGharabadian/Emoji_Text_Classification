@@ -14,7 +14,7 @@ pip insatll -r requirements.txt
 
 ## How to run
 ```
-python class_emoji_text_classification.py --vector_shape verctor_shape --features_path features_path --infrence sentence
+python class_emoji_text_classification.py --vector_shape dimention --features_path features_path --infrence sentence
 ```
 
 ## Results
