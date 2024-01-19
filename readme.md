@@ -1,4 +1,4 @@
-### Emoji Classification
+# Emoji Classification
 
 ## Description
 
